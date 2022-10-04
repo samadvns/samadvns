@@ -1,0 +1,198 @@
+CSS in HTML
+
+    <!-- <h1>Start CSS Tutorial</h1> -->
+    <!-- CSS Selectors -->
+
+    <!-- <h2>CSS Selectors</h2>
+    <ol type="i"> -->
+
+    <!-- Element Selector -->
+    <!-- <li>
+            <h3>Element Selector</h3>
+        </li>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, non.</p> -->
+
+    <!-- ID Selector -->
+    <!-- <li>
+            <h3>ID Selector</h3>
+        </li>
+        <p id="color">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut, ipsum.</p> -->
+
+    <!-- Class Selector -->
+
+    <!-- <li>
+            <h3>Class Selector</h3>
+        </li>
+        <p class="pclass">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, cumque.</p> -->
+
+    <!-- Grouping Selector -->
+
+    <!-- <li>
+            <h3>Group Selector</h3>
+        </li>
+        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, provident!</span>
+        <footer>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, harum?</footer>
+    </ol>
+    <h1>Developre Tools Tutorial</h1>
+    <h3>Chrome Developre Tools</h3> -->
+
+    <!-- CSS Fonts -->
+
+    <!-- <h1>CSS Fonts</h1>
+    <p id="fonts">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis aliquam delectus magnam quidem
+        quibusdam
+        distinctio vitae, incidunt mollitia dolorum, fugit dolor. Voluptatibus laudantium libero, tenetur itaque quam
+        tempora minus quae?
+    </p> -->
+
+    <!-- Color in CSS -->
+
+    <!-- <h1>Color in CSS</h1>
+    <p>color: blue ; /* Color by name */</p>
+    <p>color: rgb(10, 199, 123) ; /* Color by rgb value */</p>
+    <p>color: #ff5463 ; /* Color by hex value */</p> -->
+
+    <!-- Height, Width, Border, & Background -->
+
+    <!-- <h1>Height, Width, Border, & Background</h1>
+    <p class="hwbb">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, maxime quasi nobis doloremque
+        distinctio atque error nam provident excepturi? Amet, reprehenderit consectetur deserunt laudantium neque veniam
+        placeat sint voluptatibus? Totam!</p>
+
+    <p class="hwbb1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, maxime quasi nobis doloremque
+        distinctio atque error nam provident excepturi? Amet, reprehenderit consectetur deserunt laudantium neque veniam
+        placeat sint voluptatibus? Totam!</p>
+
+    <p class="hwbb2">
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem, delectus. Illo repellat deleniti commodi
+        reprehenderit distinctio, vel tempora possimus molestiae blanditiis consequuntur eaque impedit eius fuga
+        nesciunt saepe quod quam?
+    </p> -->
+
+    <!-- Box Model -->
+
+    <!-- <h1>Box model</h1>
+    <img src="image/boxmodel.jpg" alt="">
+
+    <div class="contener">
+        <p id="first">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam veritatis vitae dignissimos magnam
+            quasi officiis asperiores facere, excepturi distinctio dolorum! Iste tenetur itaque beatae maxime temporibus
+            magnam recusandae dolores vel omnis velit eum, non ducimus, aspernatur nobis optio, voluptatum facilis sit
+            tempora? Nobis cum sit facere velit quis tempora officiis.</p>
+    </div>
+    <div class="contener">
+        <p id="second">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam veritatis vitae dignissimos magnam
+            quasi officiis asperiores facere, excepturi distinctio dolorum! Iste tenetur itaque beatae maxime temporibus
+            magnam recusandae dolores vel omnis velit eum, non ducimus, aspernatur nobis optio, voluptatum facilis sit
+            tempora? Nobis cum sit facere velit quis tempora officiis.</p>
+    </div>
+    <div class="contener">
+        <p id="therd">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam veritatis vitae dignissimos magnam
+            quasi officiis asperiores facere, excepturi distinctio dolorum! Iste tenetur itaque beatae maxime temporibus
+            magnam recusandae dolores vel omnis velit eum, non ducimus, aspernatur nobis optio, voluptatum facilis sit
+            tempora? Nobis cum sit facere velit quis tempora officiis.</p>
+    </div> -->
+
+    <!-- Alignment -->
+
+    <!--<h1>Alignment</h1>
+    <div class="conte">
+        <h2>Welcome to my Store</h2>
+        <div id="fruit" class="item">
+            <h3>Fruits</h3>
+            <p id="furitpara" class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque,
+                excepturi.
+                Exercitationem unde, autem voluptatum molestiae, soluta error cumque culpa quis consequuntur, facilis
+                qui ex tempore recusandae deserunt debitis tenetur minima! Lorem ipsum dolor sit amet consectetur
+                adipisicing elit. Maxime minus totam animi enim delectus esse quibusdam ipsam iusto quas commodi sed qui
+                obcaecati aliquam, nam praesentium repellendus dolorem quidem. Voluptates!</p>
+        </div>
+        <div id="computer" class="item">
+            <h3>Computer</h3>
+            <p id="computerpara" class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque,
+                excepturi.
+                Exercitationem unde, autem voluptatum molestiae, soluta error cumque culpa quis consequuntur, facilis
+                qui ex tempore recusandae deserunt debitis tenetur minima! Lorem ipsum dolor sit amet consectetur
+                adipisicing elit. Maxime minus totam animi enim delectus esse quibusdam ipsam iusto quas commodi sed qui
+                obcaecati aliquam, nam praesentium repellendus dolorem quidem. Voluptates!</p>
+        </div>
+        <div id="stationery" class="item">
+            <h3>Stationery</h3>
+            <p id="stationerypara" class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque,
+                excepturi.
+                Exercitationem unde, autem voluptatum molestiae, soluta error cumque culpa quis consequuntur, facilis
+                qui ex tempore recusandae deserunt debitis tenetur minima!</p>
+        </div>
+        <div id="glasses" class="item">
+            <h3>Glasses</h3>
+            <p id="glassespara" class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque,
+                excepturi.
+                Exercitationem unde, autem voluptatum molestiae, soluta error cumque culpa quis consequuntur, facilis
+                qui ex tempore recusandae deserunt debitis tenetur minima!</p>
+        </div>
+    </div> -->
+
+    <!-- Pseudo selector &more designing -->
+
+    <!-- <h1>Pseudo selector &more designing</h1>
+
+    <div class="smd" id="smad1">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quisquam possimus nihil quibusdam eius illo minus
+        laudantium atque vel reiciendis ad ipsum necessitatibus repellendus eum, sed ratione. Libero, veritatis ipsam!'
+    </p>
+    <a href="https://google.com" class="btn">Read More</a>
+    <button class="btn">Contect Us</button>
+    </div>
+     -->
+    <!-- Navigation -->
+
+    <!-- <h1>Navigation</h1>
+    <nav class="navbar">
+        <ul>
+            <li> <a href="#">Home</a></li>
+            <li> <a href="#">About</a></li>
+            <li> <a href="#">Services</a></li>
+            <li> <a href="#">Contect Us</a></li>
+            <div class="search">
+                <input type="text" name="search" id="search" placeholder="search this website">
+            </div>
+        </ul>
+    </nav> -->
+
+<!-- Display Property -->
+    <h1>Display Property</h1>
+    <header class="top">
+        <img src="image/img3.jpg" alt="">
+        <h3>Welcome to Samad's Blog</h3>
+    </header>
+    <div class="contener">
+        <div class="box">
+            <h4>Heading</h4>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, cumque recusandae tempore soluta
+                exercitationem eum modi deserunt officiis, sed saepe, nulla voluptates. Accusamus qui saepe, placeat sequi
+                repellendus, ab alias vitae exercitationem odio quod in assumenda officia! Doloremque cupiditate, deleniti
+                soluta sequi perferendis aliquid aliquam.</p>
+        </div>
+        <div class="box">
+            <h4>Heading</h4>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, cumque recusandae tempore soluta
+                exercitationem eum modi deserunt officiis, sed saepe, nulla voluptates. Accusamus qui saepe, placeat sequi
+                repellendus, ab alias vitae exercitationem odio quod in assumenda officia! Doloremque cupiditate, deleniti
+                soluta sequi perferendis aliquid aliquam.</p>
+        </div>
+        <div class="box">
+            <h4>Heading</h4>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, cumque recusandae tempore soluta
+                exercitationem eum modi deserunt officiis, sed saepe, nulla voluptates. Accusamus qui saepe, placeat sequi
+                repellendus, ab alias vitae exercitationem odio quod in assumenda officia! Doloremque cupiditate, deleniti
+                soluta sequi perferendis aliquid aliquam.</p>
+        </div>
+    </div>
+
+    <!-- Position -->
+    <div class="contener">
+        <div class="box" id="box1">1</div>
+        <div class="box" id="box2">2</div>
+        <div class="box" id="box3">Help</div>
+        <div class="box" id="box4">4</div>
+    </div>
