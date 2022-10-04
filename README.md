@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samadvns
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on parents
 - 📫 How to reach me ...
 
 <!---
