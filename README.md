@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samadvns
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning App development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
